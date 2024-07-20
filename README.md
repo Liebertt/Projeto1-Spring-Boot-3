@@ -46,24 +46,23 @@ Para o back-end usaremos o Spring Boot 3
   <li>Utilizar o padrão <b><i>DTO (Data Transfer Object)</i></b>, via Java Records, para representar os dados recebidos em uma requisição POST.</li>
   </ul>
   <br>
-  <li><b><i>Flexbox e ícones no Bootstrap</i></b></li>
+  <li><b><i>Spring Data JPA</i></b></li>
   <ul>
-  <li>Integrar a biblioteca de ícones do Bootstrap, Bootstrap Icons, ao projeto;</li>
-  <li>Entendeu como encontrar e inserir ícones em um projeto na prática;</li>
-  <li>Conheceu classes do Bootstrap para definir espaçamento;</li>
-  <li>Entendeu na prática como alterar fontes de ícones e textos explorando a documentação do Bootstrap;</li>
-  <li>Conheceu e aplicou classes do Flexbox no Bootstrap ao projeto;</li>
-  <li>Finalizou o Wireframe do projeto Meteora.</li>
+  <li>Adicionar novas dependências no projeto;</li>
+  <li>Mapear uma entidade JPA e criar uma interface Repository para ela;</li>
+  <li>Utilizar o Flyway como ferramenta de Migrations do projeto;</li>
+  <li>Realizar validações com Bean Validation utilizando algumas de suas anotações, como a @NotBlank.</li>
   </ul>
   <br>
-  <li><b><i>Inserindo estilos</i></b></li>
+  <li><b><i>Requisições GET</i></b></li>
   <ul>
-  <li>Aplicar imagens de forma responsiva em um projeto unindo classes de Breakpoint e Display do Bootstrap;</li>
-  <li>Consultar o tema de cores que o Bootstrap oferece e implementar no projeto como background;</li>
-  <li>Analisar limitações do Bootstrap na oferta de cores, e resolveu a limitação recorrendo ao CSS.</li>
+  <li>Utilizar a anotação @GetMapping para mapear métodos em Controllers que produzem dados;</li>
+  <li>Utilizar a interface Pageable do Spring para realizar consultas com paginação;</li>
+  <li>Controlar a paginação e a ordenação dos dados devolvidos pela API com os parâmetros page, size e sort;</li>
+  <li>Configurar o projeto para que os comandos SQL sejam exibidos no console.</li>
   </ul>
   <br>
-  <li><b><i>Acessibilidade com Bootstrap</i></b></li>
+  <li><b><i>Requisições PUT e DELETE</i></b></li>
   <ul>
   <li>Refatorar o código para tornar o projeto acessível para leitores de tela;</li>
   <li>Conheceu a documentação de acessibilidade do Bootstrap;</li>
