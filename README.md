@@ -6,11 +6,12 @@
 <p>Luan Alves</p>
 <br>
 <b>Stack utilizada - </b>
-<b>Front-end:</b> <br>
-O front-end será simulado usando o Insomnia
 <br>
 <b>Front-end:</b> <br>
 O front-end será simulado usando o Insomnia
+<br>
+<b>Back-end:</b> <br>
+Para o back-end usaremos o Spring Boot 3
 <br>
 <br>
 <b>Assuntos que serão abordados no curso: </b>
