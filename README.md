@@ -3,7 +3,7 @@
 <br>
 <br>
 <b>Instrutor do curso: </b>
-<p>Luan Alves</p>
+<p>Rodrigo da Silva Ferreira Caneppele</p>
 <br>
 <b>Stacks utilizadas </b>
 <br>
