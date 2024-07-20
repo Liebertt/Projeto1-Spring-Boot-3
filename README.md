@@ -5,10 +5,12 @@
 <b>Instrutor do curso: </b>
 <p>Luan Alves</p>
 <br>
-<b>Stack utilizada - </b>
+<b>Stacks utilizadas </b>
+<br>
 <br>
 <b>Front-end:</b> <br>
 O front-end será simulado usando o Insomnia
+<br>
 <br>
 <b>Back-end:</b> <br>
 Para o back-end usaremos o Spring Boot 3
