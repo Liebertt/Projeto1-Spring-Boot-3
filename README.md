@@ -37,12 +37,13 @@ Para o back-end usaremos o Spring Boot 3
   <li>Realizar uma requisição de teste no browser acessando a URL mapeada no Controller.</li>
   </ul>
   <br>
-  <li><b><i>Breakpoints e Grid no Bootstrap</i></b></li>
+  <li><b><i>Requisições POST</i></b></li>
   <ul>
-  <li>Aplicar sistema de Grids do Bootstrap para organizar elementos de forma responsiva;</li>
-  <li>Conhecer e aplicar classes do Bootstrap para definir altura e largura;</li>
-  <li>Explorou a documentação do Bootstrap, e inseriu tema de cards prontos ao projeto;</li>
-  <li>Modificou tema de cards prontos do Bootstrap para se adequarem ao projeto.</li>
+  <li>Mapear requisições POST em uma classe Controller;</li>
+  <li>Enviar requisições POST para a API utilizando o Insomnia;</li>
+  <li>Enviar dados para API no formato JSON;</li>
+  <li>Utilizar a anotação @RequestBody para receber os dados do corpo da requisição em um parâmetro no Controller;</li>
+  <li>Utilizar o padrão <b><i>DTO (Data Transfer Object)</i></b>, via Java Records, para representar os dados recebidos em uma requisição POST.</li>
   </ul>
   <br>
   <li><b><i>Flexbox e ícones no Bootstrap</i></b></li>
