@@ -33,7 +33,7 @@ Para o back-end usaremos o Spring Boot 3
   <ul>
   <li>Criar um projeto Spring Boot utilizando o site do Spring Initializr;</li>
   <li>Importar o projeto no IntelliJ e executar uma aplicação Spring Boot pela classe contendo o método main;</li>
-  <li>Criar uma classe Controller e mapear uma URL nela utilizando as anotações @RestController e @RequestMapping;</li>
+  <li>Criar uma classe Controller e mapear uma URL nela utilizando as anotações <code>@RestController</code> e <code>@RequestMapping</code>;</li>
   <li>Realizar uma requisição de teste no browser acessando a URL mapeada no Controller.</li>
   </ul>
   <br>
@@ -51,14 +51,14 @@ Para o back-end usaremos o Spring Boot 3
   <li>Adicionar novas dependências no projeto;</li>
   <li>Mapear uma entidade JPA e criar uma interface Repository para ela;</li>
   <li>Utilizar o Flyway como ferramenta de Migrations do projeto;</li>
-  <li>Realizar validações com Bean Validation utilizando algumas de suas anotações, como a @NotBlank.</li>
+  <li>Realizar validações com Bean Validation utilizando algumas de suas anotações, como a <code>@NotBlank</code>.</li>
   </ul>
   <br>
   <li><b><i>Requisições GET</i></b></li>
   <ul>
-  <li>Utilizar a anotação @GetMapping para mapear métodos em Controllers que produzem dados;</li>
+  <li>Utilizar a anotação <code>@GetMapping</code> para mapear métodos em Controllers que produzem dados;</li>
   <li>Utilizar a interface Pageable do Spring para realizar consultas com paginação;</li>
-  <li>Controlar a paginação e a ordenação dos dados devolvidos pela API com os parâmetros page, size e sort;</li>
+  <li>Controlar a paginação e a ordenação dos dados devolvidos pela API com os parâmetros <code>page</code>, <code>size</code> e <code>sort</code>;</li>
   <li>Configurar o projeto para que os comandos SQL sejam exibidos no console.</li>
   </ul>
   <br>
