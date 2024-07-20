@@ -19,11 +19,11 @@ Para o back-end usaremos o Spring Boot 3
 <b>Assuntos que serão abordados no curso: </b>
 
 <ul>
-  <li>Compreenda a utilização da ferramenta Bootstrap na versão 5</li>
-  <li>Saiba como aplicar responsividade em imagens e componentes</li>
-  <li>Aprenda a aplicar temas de cores do Bootstrap em um projeto</li>
-  <li>Implemente acessibilidade para leitores de tela</li>
-  <li>Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap</li>
+  <li>Crie do zero uma API Rest em Java com Spring Boot</li>
+  <li>Desenvolva CRUDs utilizando o banco de dados MySQL</li>
+  <li>Utilize o Flyway como ferramenta de Migrations da API</li>
+  <li>Realize validações utilizando o Bean Validation</li>
+  <li>Realize paginação dos dados da API</li>
 </ul>
 
 <br>
