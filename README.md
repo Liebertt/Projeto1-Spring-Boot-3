@@ -7,7 +7,10 @@
 <br>
 <b>Stack utilizada - </b>
 <b>Front-end:</b> <br>
-HTML, CSS, Bootstrap
+O front-end será simulado usando o Insomnia
+<br>
+<b>Front-end:</b> <br>
+O front-end será simulado usando o Insomnia
 <br>
 <br>
 <b>Assuntos que serão abordados no curso: </b>
