@@ -64,10 +64,11 @@ Para o back-end usaremos o Spring Boot 3
   <br>
   <li><b><i>Requisições PUT e DELETE</i></b></li>
   <ul>
-  <li>Refatorar o código para tornar o projeto acessível para leitores de tela;</li>
-  <li>Conheceu a documentação de acessibilidade do Bootstrap;</li>
-  <li>Implementou classes de acessibilidade do Bootstrap no projeto;</li>
-  <li>Finalizou o projeto Meteora.</li>
+  <li>Mapear requisições PUT com a anotação <code>@PutMapping</code>;</li>
+  <li>Escrever um código para atualizar informações de um registro no banco de dados;</li>
+  <li>Mapear requisições DELETE com a anotação <code>@DeleteMapping</code>;</li>
+  <li>Mapear parâmetros dinâmicos em URL com a anotação <code>@PathVariable</code>code>;</li>
+  <li>Implementar o conceito de exclusão lógica com o uso de um atributo booleano.</li>
   </ul>
 </ul>
 
