@@ -1,6 +1,7 @@
 # Aplicação VollMed
 <br>
-![image](https://github.com/user-attachments/assets/0ffd4afb-afbb-48b7-ac3b-3c9ccae6e50b)
+
+
 
 <p>Esta aplicação serve para cadastrar médicos e pacientes, nela temos basicamente um CRUD.</p>
 <br>
