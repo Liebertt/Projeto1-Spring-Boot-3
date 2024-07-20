@@ -1,5 +1,16 @@
 # Aplicação VollMed
-<p>Esta aplicação serve para cadastrar médicos e pacientes, nela temos basicamente um CRUD</p>
+<p>Esta aplicação serve para cadastrar médicos e pacientes, nela temos basicamente um CRUD.</p>
+<br>
+<br>
+Link do Figma da Interface com o intuíto puramente didático:<br>
+https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&t=B1IGZYWM9NsYk6Wb-0 
+<br>
+![image](https://github.com/user-attachments/assets/d4677d9b-ed2f-481d-a368-4417fff676fd)
+
+<br>
+<br>
+Link do Trello:<br>
+https://trello.com/b/O0lGCsKb/api-voll-med
 <br>
 <br>
 <b>Instrutor do curso: </b>
